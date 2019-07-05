@@ -18,6 +18,8 @@ python main.py
 
 ## Datasets
 
+Please first process the raw data into intermediate data, which contains the session ID, timestamp and item ID, by using 'DataAfterPrepreprocess.py'.
+
 YOOCHOOSE: http://2015.recsyschallenge.com/challenge.html
 
 LastFM: https://www.dtic.upf.edu/~ocelma/MusicRecommendationDataset/lastfm-1K.html
