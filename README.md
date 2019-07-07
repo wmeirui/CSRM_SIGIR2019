@@ -24,4 +24,4 @@ LastFM: https://www.dtic.upf.edu/~ocelma/MusicRecommendationDataset/lastfm-1K.ht
 
 **Processing code**
 * python DataAfterPrepreprocess.py
-* python yoo_preprocess.py or lastfm_preprocess.py
+* python lastfm_preprocess.py
